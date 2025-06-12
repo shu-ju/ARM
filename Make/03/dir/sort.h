@@ -2,7 +2,3 @@
 #include <iostream>
 void test();
 
-   
-
-
-
